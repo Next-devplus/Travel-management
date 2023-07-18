@@ -1,4 +1,4 @@
-*Plataforme Base:
+*Plataforme Base:<br>
 -php 8<br>
 -Base  (mysql)<br>
 *Prérequis d'installation :<br>
